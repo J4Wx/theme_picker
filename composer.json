@@ -1,0 +1,14 @@
+{
+    "name": "j4wx/theme_picker",
+    "description": "Advanced theme selection/negotiation for Drupal 8",
+    "type": "drupal-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamie Wood",
+            "email": "jamie.wood@reckless.agency"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

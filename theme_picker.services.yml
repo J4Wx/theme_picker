@@ -1,0 +1,5 @@
+services:
+  theme_picker.negotiator.theme:
+    class: 'Drupal\theme_picker\Theme\ThemeNegotiator'
+    tags:
+      - { name: theme_negotiator, tag: theme_negotiator, priority: 1000 }
