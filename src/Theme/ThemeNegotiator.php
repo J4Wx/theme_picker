@@ -29,7 +29,6 @@ class ThemeNegotiator implements ThemeNegotiatorInterface {
    * {@inheritdoc}
    */
   private function themeOrParent($node) {
-    echo "looping";
     if (isset($node->field_theme_selection)) {
       if ($node->field_theme_selection[0]->value) {
         $this->theme = $node->field_theme_selection[0]->value;
