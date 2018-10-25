@@ -7,7 +7,7 @@ use Drupal\Core\Field\WidgetBase;
 use Drupal\Core\Form\FormStateInterface;
 
 /**
- * Plugin implementation of the 'field_example_text' widget.
+ * Plugin implementation of the 'field_theme_selection' widget.
  *
  * @FieldWidget(
  *   id = "theme_widget",
