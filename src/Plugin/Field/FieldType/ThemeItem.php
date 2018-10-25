@@ -8,7 +8,7 @@ use Drupal\Core\Field\FieldStorageDefinitionInterface;
 use Drupal\Core\TypedData\DataDefinition;
 
 /**
- * Provides a field type of baz.
+ * Provides a field type for themes.
  *
  * @FieldType(
  *   id = "theme",
